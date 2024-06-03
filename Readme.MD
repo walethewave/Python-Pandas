@@ -50,3 +50,4 @@ But my journey did not end there. I ventured into the realm of popularity, ident
 Armed with these insights, i stand at the crossroads of decision-making in the music industry. With a newfound understanding of user preferences, artist popularity, and musical trends, stakeholders can chart strategic courses of action. Record labels may choose to invest in artists with high danceability scores, aiming to capitalize on the foot-tapping appeal of their tracks. Streaming platforms could curate playlists featuring instrumental gems, catering to listeners seeking immersive musical experiences beyond lyrical confines.
 
 In this tale of data exploration and discovery, the possibilities are endless. With each insight uncovered, decision-makers are equipped to navigate the ever-evolving landscape of the music industry, steering towards success and musical harmony.
+Done 
